@@ -1,0 +1,42 @@
+#particles-js {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+  }
+  
+  .dark-mode .bg-white.p-4.rounded.shadow-md.transition-colors.duration-200.hover\:bg-gray-100:hover {
+    background-color: #333333;
+  }
+  
+  .dark-mode {
+    background-color: #1a1a1a;
+  }
+  
+  .dark-mode footer,
+  .dark-mode footer .text-gray-600 {
+    color: #f8f8f8;
+  }
+  
+  .dark-mode .text-white,
+  .dark-mode .text-black,
+  .dark-mode .text-gray-900,
+  .dark-mode h1,
+  .dark-mode h2,
+  .dark-mode h3,
+  .dark-mode h4,
+  .dark-mode .bg-white .card-content,
+  .dark-mode .bg-white div {
+    color: #f8f8f8;
+  }
+  
+  .dark-mode .bg-white {
+    background-color: #1a1a1a;
+  }
+  
+  .dark-mode .shadow-md {
+    box-shadow: 0 4px 6px rgba(255, 255, 255, 0.1), 0 1px 3px rgba(255, 255, 255, 0.06);
+  }
+  
