@@ -1,4 +1,4 @@
-#  Task Delegator
+#  Task Delegator🤖
 Add your projects and to-do lists and they will be broken down into action items!
 <br>
 
