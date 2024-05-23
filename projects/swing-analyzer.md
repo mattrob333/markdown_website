@@ -7,9 +7,9 @@ Compare your Baseball Swing to the PROS!⚾
 
 ## Key Features
 
-* Split Screen Comparison to easily see mistakes
-* Save and send screen shots for training youth players
-* Fun way to teach Kids by putting them beside their favorite player!
+* 🧢 Split Screen Comparison to easily see mistakes
+* 📸 Save and send screen shots for training youth players
+* 💪Fun way to teach Kids by putting them beside their favorite player!
 <br>
 
 **[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/front-stand)**
