@@ -2,7 +2,7 @@
 Compare your Baseball Swing to the PROS!⚾
 <br>
 
-<img src="https://github.com/mattrob333/txt-files/blob/main/Green%20and%20White%20Conceptual%20New%20Look%20Fashion%20Blog%20Banner.png?raw=true" height="200">
+<img src="https://github.com/mattrob333/txt-files/blob/main/swing%20thumbnail.png?raw=true" height="200">
 <br>
 
 ## Key Features
