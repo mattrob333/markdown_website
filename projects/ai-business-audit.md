@@ -2,7 +2,7 @@
 Input a Raw Idea and Generate a Full Business Plan
 <br>
 
-<img src="https://github.com/mattrob333/txt-files/blob/main/2.png?raw=true" height="200">
+<img src="https://github.com/mattrob333/txt-files/blob/main/businessAudit.png?raw=true" height="200">
 <br>
 
 ## Top 3 Features
