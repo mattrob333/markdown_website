@@ -1,4 +1,4 @@
-# 🔥 Personal Website
+# 🔥 Personal Website (Not my work - the original creator of this template is in the github below)
 Showcase your projects and skills with a sleek, dynamic portfolio powered by your GitHub Repo
 <br>
 
