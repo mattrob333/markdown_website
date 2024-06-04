@@ -156,7 +156,7 @@ In a LangGraph workflow, each **node** represents either:
 * **Content Creation Team:** A team of agents that can research a topic, generate an outline, write different sections of an article, and optimize it for SEO.
 * **Customer Support Team:**  Agents that can handle different types of customer queries, escalate issues to human representatives when needed, and even offer personalized product recommendations.
 
-## ⛓️⛓️V. Workflow Optimization: Building Faster and More Efficient Systems
+## 🚀🚀V. Workflow Optimization: Building Faster and More Efficient Systems
 
 **1.  The Need for Speed: Time and Cost Optimization with Agents**
 
