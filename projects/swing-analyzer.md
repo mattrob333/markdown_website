@@ -2,7 +2,7 @@
 Compare your Baseball Swing to the PROS!⚾
 <br>
 
-<img src="https://github.com/mattrob333/txt-files/blob/main/swing%20thumbnail.png?raw=true" height="200">
+<img src="https://github.com/mattrob333/txt-files/blob/main/SwingLab.jpg?raw=true" height="200">
 <br>
 
 ## Key Features
