@@ -392,5 +392,13 @@ document.body.appendChild(footer);
       window.addEventListener('scroll', toggleScrollButtonVisibility);
       toggleScrollButtonVisibility();
     </script>
+    
+    <script type="module">
+    import Chatbot from "https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js"
+    Chatbot.init({
+        chatflowid: "79b7dc41-1980-4c72-92aa-7c36a1a4b52f",
+        apiHost: "https://flowise-jc8z.onrender.com",
+        })
+    </script>
 </body>
 </html>
