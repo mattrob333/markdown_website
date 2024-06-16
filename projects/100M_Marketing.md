@@ -2,7 +2,7 @@
 Input Your Business Info and Generate a Complete Marketing Plan
 <br>
 
-<img src="https://github.com/yourusername/yourrepository/blob/main/100mmarketing.png?raw=true" height="200">
+<img src="https://github.com/mattrob333/txt-files/blob/main/100M_Marketing.png?raw=true" height="200">
 <br>
 
 ## Top 3 Features
