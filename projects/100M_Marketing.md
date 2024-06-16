@@ -12,4 +12,4 @@ Input Your Business Info and Generate a Complete Marketing Plan
 * 💰 Proven $100M+ strategies applied
 <br>
 
-**[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://github.com/yourusername/yourrepository/blob/main/100MMarketing.md)**
+**[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://github.com/mattrob333/Projects_Expanded/blob/main/%24100M%20Marketing%20Playbooks.md)**
