@@ -3,7 +3,7 @@ Effortlessly Book Appointments and Get Answers
 
 <br>
 
-<img src="![image](https://github.com/mattrob333/txt-files/assets/31228129/bf8e766f-73e2-4bdc-9386-f4cf9a54a537)" height="200">
+<img src="![image](https://github.com/mattrob333/txt-files/blob/main/Custom%20Chatbots.png?raw=true)" height="200">
 <br>
 
 ## Top 3 Features
