@@ -12,5 +12,5 @@ Input a Raw Idea and Generate a Full Business Plan
 * 📋 Fully Formed Action Plan
 <br>
 
-**[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://a.picoapps.xyz/metal-handcrafted)**
+**[<i class="fa-solid fa-up-right-from-square"></i> Uncover the Project - Click Here](https://github.com/mattrob333/Projects_Expanded/blob/main/BusinessPlanDraft.md)**
 
